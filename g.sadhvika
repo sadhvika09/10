@@ -1,0 +1,6 @@
+print(input('enter program name'))
+a=int(input('enter value'))
+if a>=0:
+    print('a is positive')
+else:
+    print('a is negative')
