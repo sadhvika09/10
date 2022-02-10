@@ -1,0 +1,11 @@
+print(input('enter program name'))
+sno=int(input('enter sno'))
+sname=input('enter sname')
+sgroup=(input('enter sgroup'))
+s1=int(input('enter marks'))
+s2=int(input('enter marks'))
+s3=int(input('enter marks'))
+if s1>=30 and s2>= 30 and s3>= 30:
+    print('pass')
+else:
+    print('fail')
